@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges I encountered while building the app.
   - Ensuring the calculator only displays the current number during input, similar to the iPhone calculator.
   - Handling the correct operation of the clear button to reset the display to '0'.
   - Limiting the output to 6 digits after the decimal point for better readability.
