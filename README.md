@@ -25,7 +25,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Calculator](https://github.com/AndroidJunior9/Calculator/assets/111723283/dfe83cfe-e231-4cfe-9097-e03f2a1e1364)
+[![Video Walkthrough](https://img.youtube.com/vi/nJ5L6Wda0S8/0.jpg)](https://www.youtube.com/shorts/nJ5L6Wda0S8)
 
 ## Notes
 
