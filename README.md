@@ -18,7 +18,11 @@ The following **extensions** are implemented:
 * [ ] The app displays only the current number during input, similar to the iPhone calculator.
 * [ ] The app handles edge cases such as division by zero.
 
-- **Challenges Encountered:**
+## APK Download
+
+You can download the APK file for this application using the link below:
+
+[Download Calculator APK](apk/calculator.apk)
 
 
 ## Video Walkthrough
